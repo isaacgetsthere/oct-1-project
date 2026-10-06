@@ -3,5 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../Oct.1/Oct.1.vcxproj" />
   <Project Path="rock paper scissors/rock paper scissors.vcxproj" />
+  <Project Path="September 29th/September 29th.vcxproj" />
 </Solution>
